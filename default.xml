@@ -2,5 +2,5 @@
 <manifest>
   <remote fetch="ssh://git@github.com/" name="origin"/>
   <default remote="origin" sync-j="4"/>
-  <project name="raaadford/radford" path="raaadford/radford" remote="origin" revision="main" upstream="main"/>
+  <project name="raaadford/radford" path="radford" remote="origin" revision="main" upstream="main"/>
 </manifest>
